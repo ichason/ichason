@@ -13,10 +13,10 @@
 - **HarmonyOS**: ArkTS, Application Development, System Integration 🏅 **HarmonyOS Application Development Advanced Certification**
 - **Cross-platform**: Flutter, React Native
 
-## 📊 GitHub Stats
+### GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ichason&show_icons=true&theme=radical&hide_border=true)
 
-## 📚 Technical Blog
+### Technical Blog
 🔗 **[CSDN Technical Blog](https://blog.csdn.net/a_Chaon?type=blog)**
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:7641436@qq.com)
