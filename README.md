@@ -16,7 +16,7 @@
 ### GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ichason&show_icons=true&theme=radical&hide_border=true)
 
-### Technical Blog
-🔗 **[CSDN Technical Blog](https://blog.csdn.net/a_Chaon?type=blog)**
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:7641436@qq.com)
+Read more about my CSDN:  **[CSDN Technical Blog](https://blog.csdn.net/a_Chaon?type=blog)**
+
+u can connect me for eamil :7641436@qq.com 😄
