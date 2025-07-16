@@ -2,7 +2,7 @@
 
 **Reverse Engineering Researcher** | **Full-Stack Mobile Development Expert** | **Patent Holder**
 
-## 🎓 Education
+### Education
 - **Bachelor's Degree** - Beijing University of Posts and Telecommunications (BUPT)
 - **Major** - Computer Science / Software Engineering
 
