@@ -17,6 +17,6 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ichason&show_icons=true&theme=radical&hide_border=true)
 
 
-Read more about my CSDN:  **[CSDN Technical Blog](https://blog.csdn.net/a_Chaon?type=blog)**
+Read more about my CSDN: https://blog.csdn.net/a_Chaon?type=blog 
 
-u can connect me for eamil :7641436@qq.com 😄
+​You can contact me via email: 7641436@qq.com
