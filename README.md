@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Chason
 
-| **Reverse Engineering Researcher** | **Full-Stack Mobile Development Expert** | **Patent Holder**
+**Reverse Engineering Researcher** | **Full-Stack Mobile Development Expert** | **Patent Holder**
 
 ## 🎓 Education
 - **Bachelor's Degree** - Beijing University of Posts and Telecommunications (BUPT)
