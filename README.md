@@ -14,7 +14,8 @@
 - **Cross-platform**: Flutter, React Native
 
 
-​You can contact me via Telegram: @pangpangacc
+​### 📫 Get in Touch
+💬 **Telegram**: [@pangpangacc](https://t.me/pangpangacc)
 
 ### GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ichason&show_icons=true&theme=radical&hide_border=true)
