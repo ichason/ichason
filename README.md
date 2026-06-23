@@ -13,8 +13,10 @@
 - **HarmonyOS**: ArkTS, Application Development, System Integration 🏅 **HarmonyOS Application Development Advanced Certification**
 - **Cross-platform**: Flutter, React Native
 
+
+​You can contact me via Telegram: @pangpangacc
+
 ### GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ichason&show_icons=true&theme=radical&hide_border=true)
 
 
-​You can contact me via Telegram: @pangpangacc
