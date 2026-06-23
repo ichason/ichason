@@ -14,7 +14,7 @@
 - **Cross-platform**: Flutter, React Native
 
 
-​### 📫 Get in Touch
+​### Get in Touch
 💬 **Telegram**: [@pangpangacc](https://t.me/pangpangacc)
 
 ### GitHub Stats
